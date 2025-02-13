@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my knowledge in Data Science academically<br>👯 I’m looking to collaborate on AI and Data Science-related projects<br>🤝 I’m looking for help with improving my skills in web development and related frameworks<br>🌱 I’m currently learning more about ML frameworks like TensorFlow and PyTorch<br>💬 Ask me about Data Science, Machine Learning, and AI<br>⚡ Fun fact Outside of technology, I love music—especially playing piano and guitar! 🎸🎹
+🔭 I’m currently working towards my master's degree in Data Science & Engineering. <br>👯 I’m looking to collaborate on AI and Data Science-related projects<br>🤝 I’m looking for help with improving my skills in web development and related frameworks<br>🌱 I’m currently learning more about ML frameworks like TensorFlow and PyTorch<br>💬 Ask me about Data Science, Machine Learning, and AI<br>⚡ Fun fact Outside of technology, I love music—especially playing piano and guitar! 🎸🎹
 
 
 ## 🌐 Socials:
